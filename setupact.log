@@ -80,3 +80,33 @@
 2020-07-31 03:23:12, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
 2020-07-31 03:23:12, Info       [0x0f0052] SYSPRP Shutting down SysPrep log
 2020-07-31 03:23:12, Info       [0x0f004d] SYSPRP The time is now 2020-07-31 03:23:12
+2020-07-31 03:23:12, Error                 SYSPRP Package Microsoft.LanguageExperiencePackzh-CN_19041.3.8.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2020-07-31 03:23:12, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2020-07-31 03:23:12, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2020-07-31 03:23:12, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2020-07-31 03:23:12, Info       [0x0f0052] SYSPRP Shutting down SysPrep log
+2020-07-31 03:23:12, Info       [0x0f004d] SYSPRP The time is now 2020-07-31 03:23:12
+2020-07-31 03:23:12, Error                 SYSPRP Package Microsoft.LanguageExperiencePackzh-CN_19041.3.8.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2020-07-31 03:23:12, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2020-07-31 03:23:12, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2020-07-31 03:23:12, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2020-07-31 03:23:12, Info       [0x0f0052] SYSPRP Shutting down SysPrep log
+2020-07-31 03:23:12, Info       [0x0f004d] SYSPRP The time is now 2020-07-31 03:23:12
+2020-07-31 03:23:12, Error                 SYSPRP Package Microsoft.LanguageExperiencePackzh-CN_19041.3.8.0_neutral__8wekyb3d8bbwe was installed for a user, but not provisioned for all users. This package will not function properly in the sysprep image.
+2020-07-31 03:23:12, Error                 SYSPRP Failed to remove apps for the current user: 0x80073cf2.
+2020-07-31 03:23:12, Error                 SYSPRP Exit code of RemoveAllApps thread was 0x3cf2.
+2020-07-31 03:23:12, Error                 SYSPRP ActionPlatform::LaunchModule: Failure occurred while executing 'SysprepGeneralizeValidate' from C:\Windows\System32\AppxSysprep.dll; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP SysprepSession::Validate: Error in validating actions from C:\Windows\System32\Sysprep\ActionFiles\Generalize.xml; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error                 SYSPRP RunPlatformActions:Failed while validating Sysprep session actions; dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f0070] SYSPRP RunDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = 0x3cf2
+2020-07-31 03:23:12, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
+2020-07-31 03:23:12, Info       [0x0f0052] SYSPRP Shutting down SysPrep log
+2020-07-31 03:23:12, Info       [0x0f004d] SYSPRP The time is now 2020-07-31 03:23:12
