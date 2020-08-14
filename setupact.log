@@ -110,3 +110,6 @@
 2020-07-31 03:23:12, Error      [0x0f00d8] SYSPRP WinMain:Hit failure while pre-validate sysprep generalize internal providers; hr = 0x80073cf2
 2020-07-31 03:23:12, Info       [0x0f0052] SYSPRP Shutting down SysPrep log
 2020-07-31 03:23:12, Info       [0x0f004d] SYSPRP The time is now 2020-07-31 03:23:12
+
+
+test wy
